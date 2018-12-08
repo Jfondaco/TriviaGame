@@ -1,0 +1,9 @@
+.row{
+    text-align: center;
+}
+
+#start{
+    width:300px;
+    height:200px;
+    font-size: 48px;
+}
